@@ -1,0 +1,94 @@
+
+#newOrderForm
+{
+	width: 900px;
+	padding: 50px;
+	margin-left: calc(50% - 450px);
+	margin-bottom: 40px;
+	border: solid 3px rgba(255, 255, 255, 0.2);
+}
+.order_products
+{
+	padding-left: calc(100% - 680px);
+	padding-right: calc(100% - 680px);
+	padding-top: 30px;
+}
+.selectLabel, .inputLabel
+{
+	font-weight: bold;
+	font-size: 20px;
+	margin-right: 20px;
+}
+select 
+{
+	text-align: center;
+	text-align-last:center; 
+}
+option
+{
+	text-align: center;
+}
+.form-control
+{
+	width: 60%;
+	float: right;
+}
+#form-control2
+{
+	width: 10%;
+	height: 60%;
+	float: right;
+	margin-top: 2px;
+	margin-bottom: 5px;
+}
+.order_products input 
+{ 
+    text-align: center; 
+}
+.order_products label
+{ 
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#prod_item
+{
+	padding: 6px 10px 6px 20px;
+	background-color: rgba(255, 255, 255, 0.2);
+	margin-bottom: 4px;
+}
+
+.productsHeader
+{
+	font-weight: bold;
+	font-size: 24px;
+	margin-top: 60px;
+	margin-bottom: 0px;
+	text-decoration: underline;
+	text-align: left;
+}
+
+#submitNewOrder
+{
+	margin-left: calc(100% - 485px);
+	margin-right: calc(100% - 485px);
+	margin-top: 60px;
+}
+
+#info
+{
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-align: center;
+	
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance:textfield;
+}

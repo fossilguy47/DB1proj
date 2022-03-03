@@ -1,0 +1,28 @@
+
+body
+{
+	color: white;
+	background-image: url("../img/tlo.jpg");
+	background-color: #cccccc;}
+h1
+{
+text-align: center;
+	
+}
+h5
+{
+text-align: center;
+}
+
+
+.parent-form {
+  margin: 1rem;
+  text-align: center;
+}
+
+.child-form {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+

@@ -1,0 +1,83 @@
+.ListHeader
+{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+	overflow: hidden;
+	box-shadow: 0 0 8px rgba(255,255,255,0.4);
+	border: solid 3px rgba(255,255,255,0.7);
+}
+th, td
+{
+	padding: 10px;
+	background-color: rgba(255,255,255,0.3);
+	color: #fff;
+	border: solid 2px rgba(255,255,255,0.7);
+}
+.c
+{
+	text-align: center;
+}
+thead th
+{
+	background-color: rgba(255,255,255,0.72);
+	font-size: 18px;
+	text-shadow: 0 0 8px rgba(255,255,255,0.9);
+	color: #22808a;
+}
+.secondTheadRow 
+{
+	height: 8px;
+	
+}
+.secondTheadRow th
+{
+	padding: 1px 10px 1px 10px;
+	font-size: 17px;
+	text-align: center;
+	
+}
+.startDate, .endDate
+{
+	min-width: 100px;
+	text-align: center;
+	padding: 5px 10px 5px 10px;
+}
+.dec_cell
+{
+	font-weight: bold;
+	padding: 10px 36px 10px 14px; 
+	margin-left: 20px;
+}
+.dec_cell2
+{
+	font-weight: bold;
+	padding: 10px 10px 10px 10px; 
+	margin-left: 20px;
+	text-align: center;
+}
+#det
+{
+	font-size: 14px;
+	line-height:14px;
+	padding-top: 0;
+	margin-top: 0;
+}
+tbody tr
+{
+	
+}
+tbody td
+{
+
+}
+
+.lp
+{
+	padding: 10px 3px 10px 6px; 
+	text-align: center;
+}

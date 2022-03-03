@@ -1,0 +1,44 @@
+
+.header_info
+{
+	text-align: center;
+}
+#editEmployeeForm
+{
+	width: 800px;
+	padding: 20px;
+	margin-left: calc(50% - 400px);
+}
+.selectLabel, .inputLabel
+{
+	font-weight: bold;
+	font-size: 20px;
+	margin-right: 20px;
+}
+select 
+{
+	text-align: center;
+	text-align-last:center; 
+}
+option
+{
+	text-align: center;
+}
+.form-control
+{
+	width: 60%;
+	float: right;
+}
+
+#submitEditEmployee
+{
+	margin-left: 490px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#info
+{
+	margin-left: 320px;
+	text-align: center;
+}

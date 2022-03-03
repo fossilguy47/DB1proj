@@ -1,0 +1,72 @@
+.personal_list
+{
+	display: inline-block;
+	font-size: 20px;
+	margin-left: 25px;
+}
+.personal_list p
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	line-height: 25px;
+}
+.personal_title
+{
+	font-weight: bold;
+	display: inline-block;
+	width: 300px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.personal_data
+{
+	padding-left: 20px;
+}
+#changePassDiv
+{
+	float: left;
+	margin-left: 300px;
+	padding: 20px;
+	padding-top: 4px;
+	display: none;
+}
+#showFormButton
+{
+	margin-bottom: 10px;
+}
+#changePassForm
+{
+	font-size: 16px;
+}
+#submitNewPass
+{
+	margin-top: 5px;
+	margin-left: 47px;
+}
+#info
+{
+	margin-left: 358px;
+	padding: 10px;
+	font-size: 16px;
+}
+#position
+{
+	text-transform: uppercase;
+}
+.hd
+{
+	font-weight: bold;
+	font-size: 34px;
+	margin-bottom: 20px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+#contentBox{
+	color: #FFFFFF;
+	background-color: rgba(56,162,173,0.8);
+	
+
+}
